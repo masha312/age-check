@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Expanded:500');
+  
+	#welcomeBlock {
+		position: relative;
+		display: inline-block;
+		width: 700px;
+		height: 90px;
+		background-color: #cc0c0c;
+		padding: 40px;
+		margin: 30px;
+		font-family: 'Encode Sans Expanded', sans-serif;
+		color: white;
+		}
+  
+	h1 {
+		font-size: 17px;
+		padding: 0px;
+		letter-spacing: 3px;
+		font-weight: normal;
+		text-transform: uppercase;
+		text-shadow: 2px 2px 5px black;
+	}
+  
+	p {
+		font-size: 14px;
+		letter-spacing: 2px;
+		text-shadow: 1px 1px 3px black;
+	}
+	
+	button {
+		font-family: 'Calibri', sans-serif;
+		background-color: #cc0c0c;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		text-decoration: none;
+		border: 1px solid white;
+		color: white;
+	}
+	
+	input {
+		font-family: 'Calibri', sans-serif;
+		background-color: white;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		text-decoration: none;
+		border: 1px solid white;
+		color: black;
+		text-align: center;
+	}
